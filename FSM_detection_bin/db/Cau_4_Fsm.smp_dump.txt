@@ -1,0 +1,10 @@
+
+State Machine - |Cau_4_Fsm|bandau
+Name bandau.s1011 bandau.s1100 bandau.s101 bandau.s110 bandau.s11 bandau.s1 bandau.start 
+bandau.start 0 0 0 0 0 0 0 
+bandau.s1 0 0 0 0 0 1 1 
+bandau.s11 0 0 0 0 1 0 1 
+bandau.s110 0 0 0 1 0 0 1 
+bandau.s101 0 0 1 0 0 0 1 
+bandau.s1100 0 1 0 0 0 0 1 
+bandau.s1011 1 0 0 0 0 0 1 
